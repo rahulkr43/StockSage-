@@ -1,6 +1,8 @@
 # AI-Powered Stock Analysis Dashboard - StockSage
 
-This project, **StockSage**, provides an interactive dashboard for analyzing stock prices using Google's Gemini AI and visualizing trends with interactive charts. It was developed during the Artificial Intelligence Workshop Hackathon organized by the Indian Institute of Technology, Patna, in collaboration with Techgyan Technologies and ANWESHA'25 IIT PATNA on 8th and 9th February 2025. 
+This project, **StockSage**, provides an interactive dashboard for analyzing stock prices using Google's Gemini AI and visualizing trends with interactive charts. It was developed during the Artificial Intelligence Workshop Hackathon organized by the Indian Institute of Technology, Patna, in collaboration with Techgyan Technologies and ANWESHA'25 IIT PATNA on 8th and 9th February 2025.
+
+This hackathon was particularly challenging, as the instructions were given to us for a one-hour development window without internet access during the hackathon itself; internet connectivity was only provided afterward for testing purposes.
 
 ## Project Background
 
