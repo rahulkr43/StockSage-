@@ -7,7 +7,7 @@ import json
 app = Flask(__name__)
 
 # Configure Google Gemini API
-genai.configure(api_key="AIzaSyDFXo6OlB1HVizOPur5MaOQipYfSPfLWdc")  # Replace with your actual API key
+genai.configure(api_key="AIzaSyDFXo6OlB1HVizOPur5MaOQipY**********")  # Replace with your actual API key
 
 class GeminiChat:
     def __init__(self, model="models/chat-bison-001"):  # Replace with a supported model
